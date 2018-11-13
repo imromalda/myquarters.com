@@ -1,0 +1,190 @@
+.form {
+    text-align: center;
+    margin: 7%;
+    
+}
+
+.logo {
+    width: 20%;
+    margin: auto;
+    display: block;
+}
+
+.logo2 {
+    margin-top: 2%;
+    width: auto;
+}
+
+.out {
+    float: right;
+    margin-top: 2%
+}
+
+.wrap {
+    float: left;
+    width: 40%;    
+    margin-top: 2%;
+    padding: 2%;
+}
+
+.searchTerm {
+    border-radius: 5px;
+}
+
+.links { 
+    margin: 4%;
+}
+
+.forgotPass {
+    float: left;
+    text-align: right;
+    width: 40%
+}
+
+.register {
+    float: right;
+    text-align: left;
+    width: 40%;
+}
+
+
+.buttons {
+    margin-top: 10%;
+}
+
+.btn {
+    background-color: #001b66;
+    color: white;
+    width: 100%;
+}
+
+button {
+    background: #001b66;
+    border-color: #001b66;
+    color: white;
+    border-radius: 5px;
+}
+
+.profile {
+    width: 96px;
+    height: 71px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border: 2px;
+}
+
+.navbar {
+    background-color: #001b66;
+    padding: 3px;
+    margin-top: 1%;
+    width: 100%;
+    color: white;
+}
+
+i {
+    display: block;
+    padding: 3px;
+}
+
+span {
+    margin-left: 1%;
+}
+
+i .fa {
+    color: white;
+    margin-left: 25%;
+}
+
+.pages {
+    float: right;
+    width: auto;
+    text-align: right;
+}
+
+.container {
+    width: 100%;
+}
+
+.name {
+    color: white;
+}
+
+a {
+    color: inherit;
+}
+
+.row img {
+    width: 300px;
+    height: 200px;
+    margin-top: 3%;
+    text-align: center;
+}
+
+.row {
+    font-weight: bold;
+    color: #001b66;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-weight: bold;
+    color: #001b66;
+    margin: 2%;    
+}
+
+h3 {
+    text-align: center;
+    color: #001b66; 
+    margin-top: 3%; 
+}
+
+.upload-button {
+    padding: 4px;
+    margin: 2%;
+    border: 1px solid black;
+    border-radius: 100%;
+    /* display: block; */
+    float: left;
+    width: 150px;
+    height: 150px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.profile-pic {
+    max-width: 200px;
+    max-height: 200px;
+    display: block;
+}
+
+.file-upload {
+    display: none;
+}
+
+.rating {
+    margin: 2%;
+    float: right;
+    width: 50%;
+    display: block;
+}
+
+.fa {
+    display: block;
+}
+.checked {
+    color: yellow;
+    display: block;
+}
+
+.about {
+    width: 35%;
+    height: 25px;
+}
+
+hr {
+    border: 1px solid;
+    color: #001b66;
+    position: bottom;
+
+}
