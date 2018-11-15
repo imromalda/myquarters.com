@@ -1,23 +1,6 @@
-.form {
-    text-align: center;
-    margin: 7%;
-    
-}
-
-.logo {
-    width: 20%;
-    margin: auto;
-    display: block;
-}
-
 .logo2 {
-    margin-top: 2%;
-    width: auto;
-}
-
-.out {
     float: right;
-    margin-top: 2%
+    margin-top: 2%;
 }
 
 .wrap {
@@ -29,33 +12,6 @@
 
 .searchTerm {
     border-radius: 5px;
-}
-
-.links { 
-    margin: 4%;
-}
-
-.forgotPass {
-    float: left;
-    text-align: right;
-    width: 40%
-}
-
-.register {
-    float: right;
-    text-align: left;
-    width: 40%;
-}
-
-
-.buttons {
-    margin-top: 10%;
-}
-
-.btn {
-    background-color: #001b66;
-    color: white;
-    width: 100%;
 }
 
 button {
@@ -133,12 +89,6 @@ h2 {
     margin: 2%;    
 }
 
-h3 {
-    text-align: center;
-    color: #001b66; 
-    margin-top: 3%; 
-}
-
 .upload-button {
     padding: 4px;
     margin: 2%;
@@ -166,12 +116,8 @@ h3 {
     margin: 2%;
     float: right;
     width: 50%;
-    display: block;
 }
 
-.fa {
-    display: block;
-}
 .checked {
     color: yellow;
     display: block;
@@ -185,6 +131,6 @@ h3 {
 hr {
     border: 1px solid;
     color: #001b66;
-    position: bottom;
+    
 
 }
