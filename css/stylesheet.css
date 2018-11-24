@@ -65,13 +65,6 @@ button {
     border-radius: 5px;
 }
 
-.profile {
-    width: 96px;
-    height: 71px;
-    margin-top: 2%;
-    margin-bottom: 2%;
-    border: 2px;
-}
 
 .navbar {
     background-color: #001b66;
@@ -93,6 +86,10 @@ span {
 i .fa {
     color: white;
     margin-left: 25%;
+    display: block;
+    float: right;
+    width: 4%;
+    height: 4%;
 }
 
 .pages {
@@ -139,52 +136,87 @@ h3 {
     margin-top: 3%; 
 }
 
-.upload-button {
-    padding: 4px;
-    margin: 2%;
-    border: 1px solid black;
-    border-radius: 100%;
-    /* display: block; */
+.pic {
+    display: block;
+    width: 40%;
+    height: 20%;
     float: left;
-    width: 150px;
-    height: 150px;
-    text-align: center;
-    vertical-align: middle;
+    text-align: left;
+    margin-left: 2.5%;
 }
 
 .profile-pic {
-    max-width: 200px;
-    max-height: 200px;
+    border: 1px solid black;
+    border-radius: 100%;
     display: block;
-}
+    float: left;
+    width: 150px;
+    height: 150px;
+    margin-top: 2%;
+    text-align: center;
+} 
 
-.file-upload {
-    display: none;
-}
 
 .rating {
-    margin: 2%;
-    float: right;
-    width: 50%;
-    display: block;
+    float: left;
+    width: 40%;
+    height: 30%;
+    text-align: center;
+
 }
 
-.fa {
-    display: block;
-}
 .checked {
-    color: yellow;
+    margin-left: 5%;
+    margin-right: 1%;
+
+}
+
+.updatePic {
+    float: left;
+    width: 40%;
+    height: 15%;
     display: block;
+    margin-left: 2.5%;
+}
+
+.updatePic .file-upload {
+    float: left;
+}
+
+
+.update {
+    float: left;
+    width: 40%;
+    margin-top: 2%;
 }
 
 .about {
-    width: 35%;
-    height: 25px;
+    padding: 1%;
+    float: right;
+    width: 55%;
+    height: 15%; 
+    text-align: left;
+    margin-right: 2.5%;
+}
+.wall {
+    width: 95%;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    margin-top: 40%;
+    border: 2px solid;
+    border-color: #001b66;
+    height: 50%;
+
 }
 
-hr {
-    border: 1px solid;
-    color: #001b66;
-    position: bottom;
-
+.wallText {
+    margin-top: 2%;
+    width: 75%;
+    height: 10%;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
 }
+
